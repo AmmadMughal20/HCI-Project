@@ -1,0 +1,160 @@
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\CricketLeague.dll.config
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\CricketLeague.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\CricketLeague.pdb
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csc.exe
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csc.exe.config
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csc.rsp
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csi.exe
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csi.exe.config
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\csi.rsp
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.AppContext.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Collections.Immutable.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Console.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.IO.Compression.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.IO.FileSystem.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.IO.Pipes.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Reflection.Metadata.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.AccessControl.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Claims.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.ValueTuple.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XPath.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\vbc.exe
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\vbc.exe.config
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\vbc.rsp
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\VBCSCompiler.exe
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\roslyn\VBCSCompiler.exe.config
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Antlr3.Runtime.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Microsoft.Web.Infrastructure.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Newtonsoft.Json.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Helpers.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Mvc.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Optimization.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Razor.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.Deployment.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.Razor.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\WebGrease.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Helpers.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Mvc.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Optimization.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.Razor.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.Deployment.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Web.WebPages.Razor.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Newtonsoft.Json.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Antlr3.Runtime.pdb
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csprojAssemblyReference.cache
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csproj.CoreCompileInputs.cache
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csproj.CopyComplete
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\obj\Debug\CricketLeague.dll
+D:\Semester 7th\HCI\Prototype\CricketLeague\CricketLeague\obj\Debug\CricketLeague.pdb
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\CricketLeague.dll.config
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\CricketLeague.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\CricketLeague.pdb
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csc.exe
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csc.exe.config
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csc.rsp
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csi.exe
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csi.exe.config
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\csi.rsp
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.AppContext.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Console.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.IO.Compression.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Claims.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.ValueTuple.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\vbc.exe
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\vbc.exe.config
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\vbc.rsp
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\VBCSCompiler.exe
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Antlr3.Runtime.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Newtonsoft.Json.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Helpers.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Mvc.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Optimization.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Razor.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.Razor.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\WebGrease.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Helpers.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Mvc.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Optimization.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.Razor.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Web.WebPages.Razor.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Newtonsoft.Json.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Antlr3.Runtime.pdb
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csprojAssemblyReference.cache
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csproj.CoreCompileInputs.cache
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\obj\Debug\CricketLeague.csproj.CopyComplete
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\obj\Debug\CricketLeague.dll
+C:\Users\ammad\Desktop\HCI Semester Project-A _073-BSCS-15 _333-BSCS-14-RE\CricketLeague\CricketLeague\obj\Debug\CricketLeague.pdb

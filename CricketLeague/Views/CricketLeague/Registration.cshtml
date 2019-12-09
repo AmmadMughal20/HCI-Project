@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_CLLayout.cshtml";
+}
+
+<div class="clear"></div>
+<div class="maincontainer">
+    <section class="pagecontainer">
+        <div class="sidebarbox">
+            <div class="sidebarbox-title">
+                <h3>Enter your details for registration</h3>
+            </div>
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter First Name</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter firstname" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter Last Name</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter lastname" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter Email</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter email" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter your country</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter country" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter your date of birth</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="date" id="search" class="field searchtext" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Enter Password</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter password" />
+            </section>
+
+            <section class="sidebarbox">
+                <h4 style="float:left">Reenter Password</h4>
+            </section>
+            <section class="sidebarbox">
+                <input type="text" id="search" class="field searchtext" placeholder="enter password" />
+            </section>
+
+            <section class="fixture-row">
+                <button type="button" class="button">
+                    @Html.ActionLink("Create Account","HomeAfterSignIn")
+                </button>
+            </section>
+        </div>
+    </section>
+</div>
+

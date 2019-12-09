@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "SignIn";
+    Layout = "~/Views/Shared/_CLLayout.cshtml";
+}
+
+<div class="clear"></div>
+<div class="maincontainer">
+    <section class="pagecontainer">
+            <div class="sidebarbox">
+                <div class="sidebarbox-title">
+                    <h3>Enter your credentials</h3>
+                </div>
+                <section class="sidebarbox">
+                    <h4 style="float:left">Enter Username:</h4>
+                </section>
+                <section class="sidebarbox">
+                    <input type="text" id="search" class="field searchtext" placeholder="enter username" />
+                </section>
+                <section class="sidebarbox">
+                    <h4 style="float:left">Enter Password:</h4>
+                </section>
+                <section class="sidebarbox">
+                    <input type="text" id="search" class="field searchtext" placeholder="enter password" />
+                </section>
+                   
+                <div class="fixture-row">
+                    <button type="button" class="button">
+                        @Html.ActionLink("Sign In", "HomeAfterSignIn")
+                    </button>
+                </div>
+</div>
+    </section>
+    <section class="pagecontainer">
+        <section>
+            <div class="sidebarbox">
+                <div>
+                    <h3>Don't have a Cricket League account?</h3>
+                </div>
+                <div class="fixture-row">
+                    <button type="button" class="button">
+                        @Html.ActionLink("Register Now", "Registration")
+                    </button>
+                </div>
+            </div>
+        </section>
+    </section>
+</div>
